@@ -1,0 +1,15 @@
+Descargar SASS live compiler en extensiones
+control , para settings
+Live sass compiler en settings
+live sass: format (edit settings in .json)
+-----Agregar o asegurar que este present:-------
+	livesassCompile.settings.formats [
+
+	{
+      "format": "expanded",
+      "extensionName": ".css",
+      "savePath": "~/../css",
+      "savePathReplacementPairs": null
+   	}
+
+] ----------------------------------------------
