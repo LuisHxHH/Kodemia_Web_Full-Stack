@@ -6,7 +6,7 @@ div p:nth-child(2)::after {
     content: "🤔";
 }
 
-div p:last-child::after{
+div p:last-child::after {
     content: "👏";
 }
 
@@ -27,4 +27,3 @@ p {
 .chatEmojiPrefix::before{
     content: "💬";
 }
-
