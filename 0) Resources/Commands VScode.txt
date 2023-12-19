@@ -1,0 +1,5 @@
+Visual Studio Code Commands
+ 	-Ctrl + D: Reemplazar texto multiplicado
+	-Ctrl + K + C: Comentar código
+	-Ctrl + ,: Settings
+	-Ctrl + Shift + P: Línea de comandos

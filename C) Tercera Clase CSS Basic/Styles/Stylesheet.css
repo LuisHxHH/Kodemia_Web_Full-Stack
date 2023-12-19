@@ -1,0 +1,44 @@
+body{
+    background: rgb(75,75,210);
+    background: linear-gradient(90deg, rgba(75,75,210,1) 0%, rgba(19,116,235,1) 51%, rgba(0,212,255,1) 100%);
+}
+
+.Signature{
+    margin-bottom: 2em;
+}
+
+.Tanjiro{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+nav {
+    width: auto;
+    height: auto;
+}
+
+navspan{
+    padding: 10px 10px 10px 10px;
+}
+
+button{
+    width: 100px;
+    height: 30px;
+}
+
+button:hover{
+    color: aquamarine;
+    width: 120px;
+    height: 50px;
+    transition: all 300ms ease;
+}
+
+button {
+    display: block;
+    height: 2 auto;
+    width: auto;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 5em;
+}
