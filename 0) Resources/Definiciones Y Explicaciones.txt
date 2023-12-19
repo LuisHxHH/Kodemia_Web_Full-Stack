@@ -1,0 +1,10 @@
+¿Qué es una pseudoclase? (Class":")
+Una pseudoclase es un selector que marca los elementos que están en un estado específico, por ejemplo, 
+los que son el primer elemento de su tipo, o aquellos por los que el cursor les pasa por encima. Tienden 
+a actuar como si hubieras aplicado una clase en una parte determinada del documento y, a menudo, ayudan a 
+reducir el exceso de clases y proporcionan un marcado más flexible y fácil de mantener.
+
+¿Qué es un pseudoelemento? (Class"::")
+Los pseudoelementos se comportan de manera similar. Sin embargo, actúan como si hubieras añadido un elemento HTML 
+totalmente nuevo en el marcado, en lugar de haber aplicado una clase nueva a los elementos presentes. Los pseudoelementos 
+empiezan con un doble signo de dos puntos

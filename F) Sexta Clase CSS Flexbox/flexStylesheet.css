@@ -1,0 +1,86 @@
+.flexboxRowContainer{
+    display: flex;
+    flex-direction: row;
+}
+
+.flexboxColumnContainer{
+    display: flex;
+    flex-direction: row;
+}
+
+.flexboxRow {
+    display: flex;
+    flex-direction: row;
+    border: solid;
+    height: 500px;
+    width: 500px;
+    margin-bottom: 10px;;
+}
+
+.flexboxColumn {
+    display: flex;
+    flex-direction: column;
+    border: solid;
+    height: 500px;
+    width: 500px;
+}
+
+.item {
+    background-color: red;
+    height: 35px;
+    width: 35px;
+    margin:5px;
+    text-align: center;
+}
+
+
+
+.flex-start {
+    justify-content: flex-start;
+}
+
+.center {
+    justify-content: center;
+}
+
+.flex-end {
+    justify-content: flex-end;
+}
+
+.space-between {
+    justify-content: space-between;
+}
+
+.space-around {
+    justify-content: space-around
+}
+
+.space-evenly {
+    justify-content: space-evenly;
+}
+
+
+
+.flex-startC {
+    align-items: flex-start;
+}
+
+.centerC {
+    align-items: center;
+}
+
+.flex-endC {
+    align-items: flex-end;
+}
+
+.space-betweenC {
+    justify-content: space-between;
+}
+
+.space-aroundC {
+    justify-content: space-around
+}
+
+.space-evenlyC {
+    justify-content: space-evenly;
+}
